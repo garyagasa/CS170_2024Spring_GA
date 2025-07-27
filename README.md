@@ -4,7 +4,7 @@ Below is a curated list of LeetCode problems for each week of the CS170 Spring 2
 - [Course Website](https://tree.yuantsy.com/Course2/docs/CS170Spring2024/)
 
 ## Progress Tracking
-+ [ ] week 1
++ [x] week 1
 + [ ] week 2
 + [ ] week 3
 + [ ] week 4
