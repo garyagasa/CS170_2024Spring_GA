@@ -5,7 +5,7 @@ Below is a curated list of LeetCode problems for each week of the CS170 Spring 2
 
 ## Progress Tracking
 + [x] week 1
-+ [ ] week 2
++ [x] week 2
 + [ ] week 3
 + [ ] week 4
 + [ ] week 5
